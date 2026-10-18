@@ -1,0 +1,9 @@
+build/
+build-*/
+dist/
+report/
+*.exe
+*.dll
+*.pdb
+*.ilk
+.vs/

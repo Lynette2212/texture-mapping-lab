@@ -1,0 +1,9 @@
+{
+    "active_plugins": [
+        "view_toolbar",
+        "light_control",
+        "mipmap_filter",
+        "environment_mapping",
+        "texture_mapping"
+    ]
+}

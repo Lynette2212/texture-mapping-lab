@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/surface.png</file>
+        <file>icons/wire.png</file>
+        <file>icons/exit.png</file>
+    </qresource>
+</RCC>
